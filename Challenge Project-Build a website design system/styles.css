@@ -1,0 +1,161 @@
+#colors {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.color-box {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    
+}
+
+.color-container-red {
+    background-color: #E13C19;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-container-blue {
+    background-color: #193BE1;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-container-green {
+    background-color: #06BA42;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-container-gray {
+    background-color: #B4B4B4;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-container-purple {
+    background-color: #7903CA;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-container-yellow {
+    background-color: #F1FF00;
+    text-align: center;
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+#fonts {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font-container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    display: inline-flex;
+}
+
+.font-label-source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: underline;
+    padding-top: 40px;
+} 
+
+.source-code-pro-regular {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.source-code-pro-itallic {
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
+}
+
+.source-code-pro-bold {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.font-label-nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: underline;
+    padding-top: 40px;
+}
+
+.nunito-sans-regular {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.nunito-sans-itallic {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: italic;
+}
+
+.nunito-sans-bold {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.font-label-poppins {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+    padding-top: 40px;
+}
+
+.poppins-regular {
+    font-family: 'Poppins', sans-serif;
+}
+
+.poppins-itallic {
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+.poppins-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#text-styles {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
